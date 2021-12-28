@@ -1,7 +1,7 @@
 name: get_sdk_int
-description: A new flutter plugin to get android version(SDK INT).
+description: A flutter plugin to get android version(SDK INT).
 version: 1.0.0
-homepage:
+homepage: https://github.com/jinyus/flutter_android_get_sdk_int
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
